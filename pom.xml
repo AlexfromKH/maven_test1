@@ -6,7 +6,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>onmypc.master</groupId>
   <artifactId>maven_test</artifactId>
-  <version>1.0</version>
+  <version>1.1</version>
 
 	<dependencies>
 		<dependency>
@@ -14,11 +14,17 @@
   		<artifactId>commons-lang3</artifactId>
   		<version>3.8.1</version>
 		</dependency>
+		<dependency>
+    	<groupId>junit</groupId>
+    	<artifactId>junit</artifactId>
+    	<version>4.12</version>
+    	<scope>test</scope>
+		</dependency>
 	</dependencies>
 
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
-  
+
 </project>

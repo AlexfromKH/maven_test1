@@ -1,0 +1,15 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------------< onmypc.master:maven_test >----------------------
+[INFO] Building maven_test 1.0
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ maven_test ---
+[INFO] onmypc.master:maven_test:jar:1.0
+[INFO] \- org.apache.commons:commons-lang3:jar:3.8.1:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 1.488 s
+[INFO] Finished at: 2018-11-02T17:47:49+01:00
+[INFO] ------------------------------------------------------------------------
